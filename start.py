@@ -14,4 +14,4 @@ except:
     print 'Failed to initialize Steam API'
     sys.exit(1)
 
-os.system('openmw-launcher')
+os.system('openmw')
